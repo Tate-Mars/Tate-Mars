@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tate-Mars
+- 👋 Hi, I’m @Tatenda
 - 👀 I’m interested in pore-scale modelling of porous media
 - 🌱 I’m currently learning petroleum engineering
 - 💞️ I’m looking to collaborate on pore scale modelling software
